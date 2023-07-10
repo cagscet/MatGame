@@ -1,0 +1,8 @@
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\matematikOyunu\matematikOyunu\bin\Debug\matematikOyunu.exe.config
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\matematikOyunu\matematikOyunu\bin\Debug\matematikOyunu.exe
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\matematikOyunu\matematikOyunu\bin\Debug\matematikOyunu.pdb
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\matematikOyunu\matematikOyunu\obj\Debug\matematikOyunu.csproj.AssemblyReference.cache
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\matematikOyunu\matematikOyunu\obj\Debug\matematikOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\matematikOyunu\matematikOyunu\obj\Debug\matematikOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\matematikOyunu\matematikOyunu\obj\Debug\matematikOyunu.exe
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\matematikOyunu\matematikOyunu\obj\Debug\matematikOyunu.pdb
